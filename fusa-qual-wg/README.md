@@ -35,7 +35,7 @@ TODO: We need to add more detail
 
 ### 2. Software Library Qualification Process
 
-TODO: Peter to provide a brief description
+TODO: Petter to provide a brief description
 
 - [Draft RFC] libc++ Conformance Test Traceability - LLVM Qualification WG
 
