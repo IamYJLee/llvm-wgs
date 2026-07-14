@@ -6,7 +6,7 @@ For more information about the group, see the [LLVM Qualification Working Group 
 
 ## Target Audience
 
-Members of the Qualification Working Group.
+This document is for current and prospective participants in the LLVM Qualification Working Group, as well as LLVM contributors and downstream users who want to understand the group’s activities and working materials.
 
 ## Motivation
 
