@@ -10,7 +10,7 @@ This document is for current and prospective participants in the LLVM Qualificat
 
 ## Motivation
 
-Automotive developers use compilers to create code for electronic systems. If this code, especially for control systems, is faulty, the results can be dangerous. To prevent this, ISO 26262 Part 8, Clause 11 requires that tools like compilers used in component development must be qualified.
+LLVM components, including compilers, libraries, and related tooling, may be used in the development of safety-critical and high-assurance systems. In such contexts, users may need to establish confidence in the use of these components, for example by understanding their intended use, development practices, testing, traceability, known limitations, and the evidence available to support downstream qualification or certification activities.
 
 ### Kick-off talk
 
