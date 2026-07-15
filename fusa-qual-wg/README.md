@@ -29,7 +29,7 @@ TODO: We need to add materials that help others understand our activities.
 
 ### 1. Confidence in the use of software tools process
 
-This process ensures any software tool used during the development of a safety-critical system does not introduce errors or fail to detect errors in a way that could compromise the safety of the final product. The process establishes a systematic way to evaluate, classify, and qualify these tools based on the potential impact of their failure on the final system's safety.
+This process supports the evaluation, classification, mitigation, and evidence gathering for software tools used during the development of a safety-critical system, addressing how tool malfunctions could introduce errors or fail to detect errors in a way that could compromise the safety of the final product. Its goal is to provide reusable guidance and templates that help tool developers and tool users evaluate how tool malfunctions could affect safety-related development activities, classify the tool usage, and identify suitable validation or qualification evidence.
 
 TODO: We need to add more detail 
 
